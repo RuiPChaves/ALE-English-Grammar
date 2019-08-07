@@ -1,6 +1,6 @@
 # ALE-English-Grammar
 
-This is a mid-size English grammar written in the Attribute Logic Engine (https://www.cs.toronto.edu/~gpenn/ale.html), using SWI Prolog. The grammar parses tokenized English sentences and outputs a morphosyntactic analysis and a First-Order Logic semantic representation. The grammar is also coupled to a model checker and toy world knowledge model so that it can determine whether a sentence is true or not.
+This is a toy mid-size English grammar written in the Attribute Logic Engine (https://www.cs.toronto.edu/~gpenn/ale.html), using SWI Prolog. The grammar parses tokenized English sentences and outputs a morphosyntactic analysis and a First-Order Logic semantic representation. The grammar is also coupled to a model checker and toy world knowledge model so that it can determine whether a sentence is true or not.
 
 # Files
 
