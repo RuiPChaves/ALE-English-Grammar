@@ -37,8 +37,9 @@ To parse a sentence with quantifier scope resolved:
 To obtain top node syntax and semantics included (Switch = r (raw ALE output) or c (clean pretty printed) )
 ?- sem(+ListoOfTokens,+Switch)
 
+# Citation
 
-
+At the moment, there is no paper associated to this software. Please link to the present repository if you use this work in a published or open-source project.
 
 
 
